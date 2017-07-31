@@ -1,5 +1,12 @@
 [
   {
+    "name":"昆明理工大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://kmustjwcxk4.kmust.edu.cn/JWWEB/_data/index_LOGIN.aspx",
+    "libSys":"custom",
+    "libURL":"http://202.116.64.108:8991/F/"
+  },
+  {
     "name":"中山大学",
     "cmsSys":"custom",
     "cmsURL":"http://uems.sysu.edu.cn/jwxt/",
